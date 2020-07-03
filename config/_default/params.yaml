@@ -12,7 +12,7 @@
 theme: "inferno"
 
 # Enable users to switch between day and night mode?
-day_night: false
+day_night: true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -37,11 +37,11 @@ font_size: "L"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Learn how to visualize, wrangle, and do statistics on data using the Tidyverse"
+description: "Learn how to conduct a SaniPath Exposure Assessment"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo: ""
+logo: "logo.png"
 
 
 ############################
@@ -89,7 +89,7 @@ edit_page:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: ted
+author: Casey
 
 instructor: 
   name: Dr. Ted Laderas
@@ -113,12 +113,12 @@ course:
   copyrightYear: "2020"
 
 university: 
-  name: Oregon Health & Science University
-  url: "https://www.ohsu.edu"
+  name: Emory University, Rollins School of Public Health
+  url: "https://www.sph.emory.edu/"
 
 school:
-  name: Medical Informatics and Clinical Epidemiology
-  url: "https://www.ohsu.edu/dmice"
+  name: Center for Global Safe WASH
+  url: "https://www.cgswash.org/"
 
 
 ############################
@@ -212,7 +212,7 @@ search:
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine: 0
+  engine: 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
