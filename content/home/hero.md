@@ -5,10 +5,10 @@ headless: true
 active: true
 weight: 10
 
-title: "Ready for R"
+title: "SaniPath Exposure Assessment Training"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media: tidyverse-default.png
+hero_media: logo.png
 
 design:
   background:
@@ -20,5 +20,5 @@ design:
     text_color_light: true
 
 cta_note:
-  label: Spring 2020<br>Medical Informatics and Clinical Epidemiology<br>Oregon Health & Science University
+  label: August 2020<br>Center for Global Safe WASH<br>Emory University
 ---
