@@ -1,7 +1,7 @@
-baseurl: https://datavizm20.classes.andrewheiss.com/
+baseurl: /
 defaultContentLanguage: en
-title: "Data Visualization"
-theme: hugo-academic
+title: "Ready for R"
+theme: "hugo-academic"
 
 
 # ------------------
