@@ -15,13 +15,9 @@ output:
 
 ## Course Description
 
-This course is meant to be a gentle introduction to using R/Rstudio in your daily work. It aims to teach useful skills (visualization, data loading, data filtering and manipulation, simple statistics) that students can immediately use in their work. No prerequisites or previous experience required.
+This course is meant to provide an in-depth training for the application of the SaniPath Exposure Assessment Tool in urban and peri-urban environments. It aims to teach the methods and tools used in this exposure assessment approach and guide participants in how to apply the tool in their specific context. No prerequisites or previous experience is required but it is beneficial for participants to have a basic public health and WASH background.
 
-It is not meant to be a substitute for a full programming course or a full course in statistics. In the end, students will apply these skills to a final project. 
-
-## Credit Hours
-
-1 credit hour. 
+This online course is not meant to be a substitute for a full training course for the SaniPath Exposure Assessment Tool and participation in virtual trainings via Zoom will be essential to mastering skills and receiving a SaniPath training certificate.
 
 ## Learning Objectives
 
