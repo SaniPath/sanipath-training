@@ -103,13 +103,13 @@ instructor:
 #  appointment_url: https://calendly.com/andrewheiss/meeting/
 
 course:
-  number: "BMI 507"
-  semester: "Spring 2020"
+  number: "SaniPath Exposure Assessment Tool"
+  semester: "August 2020"
   days: "Thursdays"
   time: "10 - 11:30 AM"
   location: "Online"
   dates: "April 9 – June 2, 2020"
-  github: "laderast/rboot_ohsu_site"
+  github: "SaniPath/sanipath-training"
   copyrightYear: "2020"
 
 university: 
@@ -129,7 +129,7 @@ school:
 sharing_image: "social-image.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "tladeras"
+twitter: "sanipath"
 
 
 ############################
