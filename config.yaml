@@ -1,7 +1,7 @@
 baseurl: /
 defaultContentLanguage: en
-title: "Data Visualization"
-theme: hugo-academic
+title: "SaniPath Exposure Assessment Tool Training"
+theme: "hugo-academic"
 
 
 # ------------------

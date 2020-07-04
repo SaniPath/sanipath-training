@@ -17,4 +17,7 @@ design:
 
 {{< courseinfo >}}
 
-{{< figure src="/img/dataviz-flowchart.png" alt="Course map" >}}
+The course consists of [RStudio Cloud](https://rstudio.cloud) notebooks and videos. These materials are distributed via a mailing list.  In order to access the course materials, please sign up for the mailing list: https://ready4r.netlify.app/mailing/ 
+
+{{< figure src="/img/data-science-workflow.png" alt="Course map" >}}
+
