@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme: "inferno"
+theme: "plasma"
 
 # Enable users to switch between day and night mode?
 day_night: false
@@ -37,11 +37,11 @@ font_size: "L"
 site_type: "Course"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description: "Learn how to conduct a SaniPath Exposure Assessment"
+description: "Communicate science and statistics with beautiful graphics made with R and ggplot2"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo: "logo.png"
+logo: ""
 
 
 ############################
@@ -74,7 +74,7 @@ privacy_pack: false
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: 'https://github.com/laderast/rboot_ohsu_site'
+  repo_url: 'https://github.com/andrewheiss/datavizm20.classes.andrewheiss.com'
   content_dir: ''
   repo_branch: master
   editable:
@@ -89,36 +89,37 @@ edit_page:
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-author: Casey
+author: Andrew Heiss
 
 instructor: 
-  name: Dr. Ted Laderas
-  email: laderast@ohsu.edu
-  url: "https://laderast.github.io"
-  twitter: tladeras
-  github: laderast
-  office: "School of Nursing 630"
+  name: Dr. Andrew Heiss
+  email: aheiss@gsu.edu
+  url: "https://www.andrewheiss.com"
+  twitter: andrewheiss
+  github: andrewheiss
+  office: "357 Andrew Young School"
   contact_policy: >-
-    E-mail or Slack is the best way to get in contact with me. I will try to respond to all course-related e-mails within 1 business day.
-#  appointment_url: https://calendly.com/andrewheiss/meeting/
+    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
+  appointment_url: https://calendly.com/andrewheiss/meeting/
 
 course:
-  number: "BMI 507"
-  semester: "Spring 2020"
-  days: "Thursdays"
-  time: "10 - 11:30 AM"
-  location: "Online"
-  dates: "April 9 – June 2, 2020"
-  github: "laderast/rboot_ohsu_site"
+  number: "PMAP 8921"
+  semester: "Maymester 2020"
+  days: "Every day"
+  time: "Whenever"
+  # location: "Online only (thanks, COVID-19, for ruining everything)"
+  dates: "May 11–June 1, 2020"
+  github: "andrewheiss/datavizm20.classes.andrewheiss.com"
   copyrightYear: "2020"
+  slack: "https://gsudatavizm2020.slack.com"
 
 university: 
-  name: Emory University, Rollins School of Public Health
-  url: "https://www.sph.emory.edu/"
+  name: Georgia State University
+  url: "https://www.gsu.edu"
 
 school:
-  name: Center for Global Safe WASH
-  url: "https://www.cgswash.org/"
+  name: Andrew Young School of Policy Studies
+  url: "https://aysps.gsu.edu/"
 
 
 ############################
@@ -129,7 +130,7 @@ school:
 sharing_image: "social-image.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter: "tladeras"
+twitter: "andrewheiss"
 
 
 ############################
@@ -212,7 +213,7 @@ search:
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine: 1
+  engine: 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

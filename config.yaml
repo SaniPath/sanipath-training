@@ -1,7 +1,7 @@
 baseurl: /
 defaultContentLanguage: en
-title: "Ready for R"
-theme: "hugo-academic"
+title: "Data Visualization"
+theme: hugo-academic
 
 
 # ------------------
