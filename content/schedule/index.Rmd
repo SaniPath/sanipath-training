@@ -3,7 +3,7 @@ title: "Schedule"
 slug: schedule
 ---
 
-Here's your roadmap for the mini-mester!
+Here's your roadmap for the SaniPath training!
 
 Every class session has four important sections. You should read about the details for each using the main menu at the top of this webpage.
 
